@@ -1,0 +1,26 @@
+PODS:
+  - AFNetworking (0.9.1)
+  - Alamofire (5.2.2)
+  - Kingfisher (5.15.0):
+    - Kingfisher/Core (= 5.15.0)
+  - Kingfisher/Core (5.15.0)
+
+DEPENDENCIES:
+  - AFNetworking (= 0.9.1)
+  - Alamofire
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - Alamofire
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  AFNetworking: 7878df8698de3b1523a065629ebd4b24f5bb8cbc
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Kingfisher: 1acb67597a520c2d0310677e66d6e0af455ef757
+
+PODFILE CHECKSUM: b4618ebd2127647c8040b7fda471dfda77f86ef1
+
+COCOAPODS: 1.9.3

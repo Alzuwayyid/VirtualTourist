@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Virtual_Tourist_Virtual_Tourist_VirtualTourist_Virtual_Tourist_Virtual_Tourist_VirtualTouristUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Virtual_Tourist_Virtual_Tourist_VirtualTourist_Virtual_Tourist_Virtual_Tourist_VirtualTouristUITests
+@end
