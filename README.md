@@ -1,5 +1,11 @@
 # VirtualTourist
-An app that downloads and stores images from Flickr. The app will allow users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
+
+VirtualTourist is the final project for iOS Developer Nanodegree Program in Udacity.
+
+[![Swift Version](https://img.shields.io/badge/Swift-4.2-success.svg)](https://swift.org)
+[![Xcode Version](https://img.shields.io/badge/Xcode-10.1-success.svg)](https://swift.org)
+[![Platform](https://img.shields.io/cocoapods/p/LFAlertController.svg?style=flat)](https://swift.org)
+
 
 ## Project overview
 The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
