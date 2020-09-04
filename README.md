@@ -50,11 +50,11 @@ class FlickrAPI {
 5. Build app for your device or simulator
 
 ## How to use the app
-1- Lunch the app using the simulator.
-2- A map will be shown and you can place a pin by pressing on the map
-3- By pressing a map, you will see all Flicker photos that were taken in the place.
-4- You may delete any photo you want.
-5- If you want a new set of images, you can press on "New collection" button.
+- [x] Lunch the app using the simulator.
+- [x] A map will be shown and you can place a pin by pressing on the map
+- [x] By pressing a map, you will see all Flicker photos that were taken in the place.
+- [x] You may delete any photo you want.
+- [x] If you want a new set of images, you can press on "New collection" button.
 
 
 ### Third-party frameworks
